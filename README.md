@@ -30,6 +30,7 @@ This project maps surrounding obstacles in real-time. An ultrasonic sensor sweep
    String portName = Serial.list()[0]; // Update index to match your COM port
 
 ## THUMBNAIL
+<img width="720" height="353" alt="image" src="https://github.com/user-attachments/assets/1d28d5fd-ba50-4f93-ab04-bfa811bdea64" />
 
 
 ## LICENSE
