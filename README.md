@@ -28,3 +28,10 @@ This project maps surrounding obstacles in real-time. An ultrasonic sensor sweep
 3. Open `RADAR_SYSTEM.cpp` (or your visualization sketch) and ensure the serial port matches:
    ```cpp
    String portName = Serial.list()[0]; // Update index to match your COM port
+
+## THUMBNAIL
+
+
+## LICENSE
+MIT License
+   
